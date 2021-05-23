@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+}
+
+.catalog {
+    display: grid;
+    grid-template-columns: 300px 300px;
+}
+
+.product {
+    border: 1px solid black;
+}
+
+.product img {
+    display: inline-block;
+    width: 100%;
+}
